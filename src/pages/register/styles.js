@@ -61,22 +61,30 @@ export const SubtitleLogin = styled.p`
 `
 
 
-export const EsqueciText  = styled.p`
+export const JaTenhoContaText  = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
-    mouse: pointer;
-    color: #E5E044;
+
+    color: ##FFFFFF;
 ` 
 
-export const CriarText =  styled.p`
+export const FazerLoginText =  styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
-    mouse: pointer;
+
     color: #23DD7A;
+`
+export const MsgAceitoPoliticas = styled.p`
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    margin-bottom: 35px;
 `
